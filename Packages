@@ -1,30 +1,4 @@
 Package: audiobookshelf
-Version: 1.3.4
-Architecture: amd64
-Maintainer: advplyr
-Filename: ./audiobookshelf_1.3.4_amd64.deb
-Size: 12790044
-MD5sum: 99ccbb0794d421a77c8d5c01b9429a4e
-SHA1: e50c69b99de066867c412f2eb4e5428c8bd8e1fb
-SHA256: 565698d4a35abeccb45f223c52341e568eeb72071793eb9c28e1609532f826be
-Section: base
-Priority: optional
-Description: Self-hosted audiobook server for managing and playing audiobooks
-
-Package: audiobookshelf
-Version: 1.4.1
-Architecture: amd64
-Maintainer: advplyr
-Filename: ./audiobookshelf_1.4.1_amd64.deb
-Size: 13068376
-MD5sum: 0f0b1c4adc2e83c4352047c67e99ffaa
-SHA1: 5d5a107a1b3d9d20d3c4d604b15910d8a3a51eaa
-SHA256: c6793fd8a571ae3f7e14898d00d612398f5512f50f58012c327c091bddceb592
-Section: base
-Priority: optional
-Description: Self-hosted audiobook server for managing and playing audiobooks
-
-Package: audiobookshelf
 Version: 1.4.12
 Architecture: amd64
 Maintainer: advplyr
@@ -38,27 +12,14 @@ Priority: optional
 Description: Self-hosted audiobook server for managing and playing audiobooks
 
 Package: audiobookshelf
-Version: 1.4.2
+Version: 1.6.41
 Architecture: amd64
 Maintainer: advplyr
-Filename: ./audiobookshelf_1.4.2_amd64.deb
-Size: 13411346
-MD5sum: 333e93d16df3f950fb02885d4f8bb6bc
-SHA1: 2a49a4bb573168b3c01ae7e7a863c814d41122f5
-SHA256: b6c68b47395768934b0787a506d39e7c9545f6dc67a3d804918f162f1233b94e
-Section: base
-Priority: optional
-Description: Self-hosted audiobook server for managing and playing audiobooks
-
-Package: audiobookshelf
-Version: 1.4.4
-Architecture: amd64
-Maintainer: advplyr
-Filename: ./audiobookshelf_1.4.4_amd64.deb
-Size: 13412634
-MD5sum: aa97ac5bdc96cf07b39844bed99052e5
-SHA1: 2c5be900cc0631e6bc26f74b823cd5370878b73a
-SHA256: 869dbb3720bf23fedd9bf63420349599742fb32d46e22b25ca004cecbb2dc7b4
+Filename: ./audiobookshelf_1.6.41_amd64.deb
+Size: 15701492
+MD5sum: bc660a426d8eac70c56d5f1237f4dd07
+SHA1: 6c8c600c08315619d89c6092469545b0dd96136c
+SHA256: bc82df0d441158c2ab71228e0a5597a03c6c93053f7df567e426b7db1df34ca0
 Section: base
 Priority: optional
 Description: Self-hosted audiobook server for managing and playing audiobooks
