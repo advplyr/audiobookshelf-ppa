@@ -38,53 +38,14 @@ Priority: optional
 Description: Self-hosted audiobook server for managing and playing audiobooks
 
 Package: audiobookshelf
-Version: 1.6.54
+Version: 1.6.58
 Architecture: amd64
 Maintainer: advplyr
-Filename: ./audiobookshelf_1.6.54_amd64.deb
-Size: 15614728
-MD5sum: 4dfae003a55d9a5c10cd7be245d0e208
-SHA1: a000875cf089da5563e66d04c441a73a8137e995
-SHA256: 4bb532011ac9721036eddaf2ede9eeb806644ab6808fe06d447bf8fd0d51ffec
-Section: base
-Priority: optional
-Description: Self-hosted audiobook server for managing and playing audiobooks
-
-Package: audiobookshelf
-Version: 1.6.55
-Architecture: amd64
-Maintainer: advplyr
-Filename: ./audiobookshelf_1.6.55_amd64.deb
-Size: 15616246
-MD5sum: c3054196efd0703f0cb05f29c52094f9
-SHA1: 4c5b4f525cea81ec72be504eb6f14b308db075bf
-SHA256: 501cd6628b8756dad7252b52d2db0b5d5ef387f1ee526466a6d215a2d915ad49
-Section: base
-Priority: optional
-Description: Self-hosted audiobook server for managing and playing audiobooks
-
-Package: audiobookshelf
-Version: 1.6.56
-Architecture: amd64
-Maintainer: advplyr
-Filename: ./audiobookshelf_1.6.56_amd64.deb
-Size: 15617236
-MD5sum: fc84cb667f9f65c1dcc78f71c7e706e1
-SHA1: fe862d605efbdcf21f015173d66dad637616d293
-SHA256: 71f591bafa5fdc74bf0ef5572000f9c5274e7cf933b06d9f6e9ac7d835c5ed25
-Section: base
-Priority: optional
-Description: Self-hosted audiobook server for managing and playing audiobooks
-
-Package: audiobookshelf
-Version: 1.6.57
-Architecture: amd64
-Maintainer: advplyr
-Filename: ./audiobookshelf_1.6.57_amd64.deb
-Size: 15616060
-MD5sum: 3b5b4317120a9c63971c52ef36e87071
-SHA1: 748794919e7fc1a9b9bd40460ba8f1e0afecbc38
-SHA256: 9be29b36402715e53a31dcae6d05d9dc92ac1d32a77d05d4b22185f57a6316a8
+Filename: ./audiobookshelf_1.6.58_amd64.deb
+Size: 15618720
+MD5sum: 8294dae523b4b5a47eb5949371225852
+SHA1: b16396e892b5a3ce2c30ce43e99d148cdd89036c
+SHA256: 0cacab5da33aacf34677efad2403ef56eda52e7b5dda4e66fa2f746ae3030f61
 Section: base
 Priority: optional
 Description: Self-hosted audiobook server for managing and playing audiobooks
