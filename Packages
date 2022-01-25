@@ -63,3 +63,16 @@ Section: base
 Priority: optional
 Description: Self-hosted audiobook server for managing and playing audiobooks
 
+Package: audiobookshelf
+Version: 1.6.60
+Architecture: amd64
+Maintainer: advplyr
+Filename: ./audiobookshelf_1.6.60_amd64.deb
+Size: 15618222
+MD5sum: 1f4f8644a77cd16216eeb6b31d38a88b
+SHA1: b3833075ae2fa0987f06f0f480549ee3d3027370
+SHA256: adf0a087cf980cd3c85c6f79d2a803c5a0d4bfaf6fc1a3d730a5e6c1be692241
+Section: base
+Priority: optional
+Description: Self-hosted audiobook server for managing and playing audiobooks
+
