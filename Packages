@@ -133,10 +133,10 @@ Version: 2.0.0
 Architecture: amd64
 Maintainer: advplyr
 Filename: ./audiobookshelf_2.0.0_amd64.deb
-Size: 15642368
-MD5sum: 3387b431282ccf0e4211c1c3e7c5338e
-SHA1: ce379ff63da6da0e6d7e0016ba97c9021d71d896
-SHA256: 6d1481ce74c5fa1f0c54c43ea8de0fa6dbc3f8c6512ce6a5ac797b7413fd5ddc
+Size: 15643324
+MD5sum: e16fce44f878c89f89c4c38f43dfd951
+SHA1: a7813bf936105f7c2f0d553088bab6f05f4410ea
+SHA256: b96e9cd574ec0b5fc6bd5fadca67158f70f089e7668daf246c0ea53e56765472
 Section: base
 Priority: optional
 Description: Self-hosted audiobook server for managing and playing audiobooks
